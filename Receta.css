@@ -1,0 +1,11 @@
+/* Todos los elementos con atributo ingredientes, tendrán el color del texto azul */
+[ingredientes] {
+    color: blue;
+  }
+/* Todos los elementos con atributo pasos tendrán el fondo de color lima */
+        [pasos] {
+    background-color: #0f0;
+  }
+  form{
+    border: 1px solid black;
+  }
